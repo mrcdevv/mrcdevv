@@ -49,7 +49,7 @@
 
 <br clear="both">
 <!-- Languages -->
-<h2>Languages</h2>
+<h2>Languages </h2>
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg" width="50" height="30" alt="spanish"/>
