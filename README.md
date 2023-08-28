@@ -10,7 +10,7 @@
 <p>Currently learning Java/Spring Boot</p>
 
 <br clear="both">
-<!-- Tools -->
+<!-- Stack -->
 <h2>My Toolbox</h2>
 
 <h3>Frontend</h3>
@@ -58,7 +58,7 @@
 </div>
 
 <br clear="both">
-<!-- Links to social -->
+<!-- Social -->
 <h2>Social media</h2>
 <a href="https://www.linkedin.com/in/marco-ezequiel-morales/" target="_blank"><img class="w-10" height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/></a>
 </div>
