@@ -1,16 +1,13 @@
-<!-- Header --> 
 <div align="center">
   <img height="280"  width="100%" src="https://github.com/marcodeArg/marcodeArg/assets/76412551/00349d35-391a-4eac-a034-95fcb3f5ddc6" />
 </div> 
 
 <br clear="both">
-<!-- About Me section -->
 <h2>Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" height="22"/></h2>
 <p>I'm Marco, a Software Development student based in Argentina. I'm all about learning new stuff every day and continuously improving my skills. I enjoy taking on challenges.</p>
 <p>Currently learning .NET/C#</p>
 
 <br clear="both">
-<!-- Stack -->
 <h2>My Toolbox</h2>
 
 <h3>Frontend</h3>
@@ -48,7 +45,6 @@
 
 
 <br clear="both">
-<!-- Languages -->
 <h2>Languages </h2>
 
 <div>
@@ -58,7 +54,6 @@
 </div>
 
 <br clear="both">
-<!-- Social -->
 <h2>Social media</h2>
 <a href="https://www.linkedin.com/in/marco-ezequiel-morales/" target="_blank"><img class="w-10" height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/></a>
 </div>
@@ -66,7 +61,6 @@
 <br clear="both">
 <br clear="both">
 
-<!-- Stats -->
 <h2>Stats</h2>
 <br clear="both">
 <div align="center">
@@ -76,7 +70,6 @@
 
 <br clear="both">
 <br clear="both">
-<!-- Visit counter -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcodeArg.marcodeArg&left_color=darkcyan"  height="30"/>
 </div> 
