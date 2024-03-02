@@ -54,7 +54,7 @@
 </div>
 
 <br clear="both">
-<h2>Social media</h2>
+<h2>Social media </h2>
 <a href="https://www.linkedin.com/in/marco-ezequiel-morales/" target="_blank"><img class="w-10" height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/></a>
 </div>
 
