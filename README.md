@@ -4,7 +4,7 @@
 
 <br clear="both">
 <h2>Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" height="22"/></h2>
-<p>I'm Marco, a Software Development student based in Argentina. I'm all about learning new stuff every day and continuously improving my skills.</p>
+<p>I'm Marco, a Software Development student based in Argentina. I'm all about learning new stuff every day and continuously improving my skills. </p>
 <p>Currently learning .NET/C#</p>
 
 <br clear="both">
