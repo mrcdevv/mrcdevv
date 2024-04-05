@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
 </div>
 
 <h3>Backend</h3>
@@ -73,4 +75,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcodeArg.marcodeArg&left_color=darkcyan"  height="30"/>
 </div> 
-
